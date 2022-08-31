@@ -1,0 +1,1 @@
+W folderze cypress/integration znajdują się pliki z nauki automatyzacji w środowisku Cypress

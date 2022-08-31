@@ -1,0 +1,21 @@
+{
+  "name": "cypress-projekt",
+  "version": "1.0.0",
+  "description": "Kurs Cypress",
+  "main": "index.js",
+  "scripts": {
+    "open": "npx cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "testy",
+    "automatyczne",
+    "kurs"
+  ],
+  "author": "K@M!L",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.1",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
